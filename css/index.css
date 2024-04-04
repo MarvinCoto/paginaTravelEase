@@ -89,3 +89,9 @@ active,a:hover{
     transition: .5s;
 }
 
+#footer
+{
+    background-color: #688391;
+    color: white;
+    
+}
