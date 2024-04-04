@@ -1,0 +1,27 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* Para que las tarjetas se envuelvan si no caben en una sola línea */
+    justify-content: space-between;
+    /* Para que haya espacio entre las tarjetas */
+    padding: 180px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.PlieguePag {
+    display: flex;
+    flex-wrap: wrap;
+    /* Para que las tarjetas se envuelvan si no caben en una sola línea */
+    justify-content: space-between;
+
+    padding: 240px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    
+}
+.cardinfo img{
+    height: 400px;
+    width: 400px;
+    margin-left: 40%;
+}
