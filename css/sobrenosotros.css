@@ -60,3 +60,30 @@ active,a:hover{
     background: #1b9bff;
     transition: .5s;
 }
+
+
+
+.articulo{
+    display: flex;
+    justify-content: center;
+}
+
+.caja1{
+    width: 400px;
+    margin: 0px 100px 0px 100px;
+}
+
+.caja3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 1000px;
+}
+
+.centro{
+    align-self: center;
+}
+
+p{
+    text-align: justify;
+}
